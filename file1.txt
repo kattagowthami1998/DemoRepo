@@ -1,2 +1,4 @@
 This is file1
-This is line1
+This is line1 
+This is line3..
+This is 4th line.
